@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoPreguntas</string>
+    <string name="textview_pregunta">¿Ayacucho cumplio 434 años de fundación?</string>
+    <string name="boton_verdadero">Verdadero</string>
+    <string name="boton_falso">Falso</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="boton_atras">Atras</string>
+</resources>
